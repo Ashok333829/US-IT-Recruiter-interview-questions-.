@@ -1,0 +1,243 @@
+US IT Recruiter Interview Questions & Answers
+1. Tell me about yourself.
+Answer:
+“My name is Ashok. I am interested in building my career in US IT Recruitment. I have a good understanding of IT technologies, candidate sourcing, screening, communication, and recruitment processes. I am familiar with concepts like Boolean search, job portals, ATS, resumes, interview coordination, and US staffing terms such as W2, C2C, and 1099. I am a quick learner, comfortable working in a team, and willing to work in US timings.”
+
+2. What is US IT Recruitment?
+Answer:
+US IT Recruitment is the process of finding, screening, qualifying, and submitting IT professionals for jobs with companies or clients in the United States.
+Example:
+A client needs a Java Developer. The recruiter searches for suitable candidates, checks their skills, experience, location, work authorization, and availability, and then submits qualified candidates to the client.
+3. What is the role of a US IT Recruiter?
+Answer:
+A US IT Recruiter generally:
+- Understands job requirements
+- Searches for candidates
+- Contacts candidates
+- Screens resumes
+- Conducts initial screening calls
+- Checks availability and work authorization
+- Discusses compensation/rates
+- Submits qualified candidates
+- Coordinates interviews
+- Follows up with candidates and clients
+4. What is a Job Description (JD)?
+Answer:
+A Job Description contains the details of a position, including:
+- Job title
+- Required skills
+- Experience
+- Location
+- Responsibilities
+- Education
+- Contract/permanent status
+- Duration
+- Rate or salary
+Example:
+“Java Developer – 5+ years – Spring Boot – Microservices – AWS – Dallas, TX.”
+5. What is Boolean Search?
+Answer:
+Boolean search is a technique used to find relevant candidates using operators such as AND, OR, NOT, quotation marks, and parentheses.
+Example:
+("Java Developer" OR "Java Engineer")
+AND ("Spring Boot" OR Microservices)
+AND AWS
+
+This helps recruiters find candidates with specific combinations of skills.
+6. What is sourcing?
+Answer:
+Sourcing means searching for potential candidates who match a particular job requirement.
+Common sourcing methods include:
+LinkedIn, job portals, resume databases, employee referrals, vendor networks, and internal databases.
+7. What is candidate screening?
+Answer:
+Candidate screening is the process of checking whether a candidate matches the job requirements.
+A recruiter usually checks:
+Skills → Experience → Location → Work authorization → Availability → Rate/salary → Communication
+8. What is an ATS?
+Answer:
+ATS stands for Applicant Tracking System.
+It is software used by recruiters to manage:
+- Candidate resumes
+- Job openings
+- Candidate status
+- Interviews
+- Submissions
+- Hiring workflow
+Examples include systems such as Bullhorn, JobDiva, and other ATS platforms.
+US Staffing Terminology
+9. What is W2?
+Answer:
+W2 is a US employment arrangement where the worker is employed through the staffing company/payroll company, which handles payroll and applicable employment-related deductions.
+Recruiter example:
+“Candidate is available on W2.”
+10. What is C2C?
+Answer:
+C2C means Corp-to-Corp.
+In this arrangement, one company contracts with another company for the candidate's services.
+Example:
+Client Company
+      ↓
+Staffing Company A
+      ↓
+Candidate's Company
+
+11. What is 1099?
+Answer:
+1099 is an independent contractor arrangement in the US where the individual generally works as a contractor rather than as a W2 employee.
+12. What is work authorization?
+Answer:
+Work authorization determines whether a candidate is legally authorized to work in the United States.
+Common categories recruiters may encounter include:
+- US Citizen
+- Green Card
+- EAD
+- H-1B
+- OPT
+- CPT
+- TN
+A recruiter should verify the applicable work authorization requirements with the employer/client process.
+13. What is the difference between W2, C2C and 1099?
+Type	Basic meaning
+W2	Candidate works through payroll/employer
+C2C	One company contracts with another company
+1099	Independent contractor arrangement
+
+
+Recruitment Process Questions
+14. Explain the US IT Recruitment process.
+Answer:
+A simple recruitment flow is:
+Requirement → Sourcing → Resume Screening → Candidate Call → Qualification → Submission → Client Interview → Selection → Offer → Onboarding
+15. How do you understand a technical JD?
+Answer:
+I divide the JD into three categories:
+Must-have skills
+Skills that are essential.
+Good-to-have skills
+Additional skills that are preferred.
+Basic requirements
+Experience, location, education, work authorization, availability, etc.
+Example:
+For a DevOps position:
+Must Have:
+AWS
+Docker
+Kubernetes
+Terraform
+CI/CD
+
+Good to Have:
+Python
+Linux
+Jenkins
+
+16. How do you identify a good candidate?
+Answer:
+I compare the candidate's resume against the JD and check:
+Technical skills + years of experience + recent project experience + location + work authorization + availability + rate + communication
+I focus on the actual experience rather than matching keywords alone.
+17. How do you contact candidates?
+Answer:
+I can contact candidates through:
+- Phone
+- Email
+- LinkedIn
+- Professional job portals
+My first message should be short and should clearly mention the role, location, employment type, key skills, and client/project information that can legally and appropriately be disclosed.
+18. What questions would you ask a candidate during screening?
+Answer:
+I would ask:
+1. Can you briefly explain your current project?
+2. How many years of experience do you have?
+3. What is your experience with the required technologies?
+4. Where are you currently located?
+5. Are you open to the required work arrangement?
+6. What is your work authorization?
+7. What is your availability/joining date?
+8. What compensation/rate are you targeting?
+9. Are you interviewing with any other companies?
+10. Are you comfortable with the interview process?
+19. What is candidate submission?
+Answer:
+Candidate submission means sending a qualified candidate's profile to the client or hiring team for consideration.
+A submission may include:
+Resume + candidate details + skills summary + location + work authorization + availability + rate
+20. What is a Bench candidate?
+Answer:
+A bench candidate is an IT professional who is currently available for a new project or assignment and does not have an active client project.
+Real-Time Situational Questions
+21. A candidate is not responding. What will you do?
+Answer:
+I would try different communication methods such as phone, email, and LinkedIn, while avoiding excessive contact. I would also follow up at an appropriate time and continue sourcing other qualified candidates.
+22. The candidate matches only 50% of the JD. Will you submit them?
+Answer:
+No, not immediately. I would first identify which skills are mandatory and which are preferred. I would submit the candidate only when they reasonably meet the client's essential requirements.
+23. The client needs a candidate urgently. What will you do?
+Answer:
+I would prioritize the requirement, use multiple sourcing channels, search using targeted Boolean strings, contact relevant candidates quickly, conduct efficient screening, and maintain a backup pipeline of qualified candidates.
+24. Candidate asks, "Why should I consider this job?"
+Answer:
+I would explain the opportunity honestly, including the role, technology stack, project scope, location/work arrangement, contract type, and other available details, and answer the candidate's questions clearly.
+25. Candidate has a better offer from another company. What will you do?
+Answer:
+I would understand what is important to the candidate, such as compensation, technology, project, location, or career growth. Then I would explain the advantages of the current opportunity without making false promises.
+Technical Knowledge Questions
+26. What is the difference between Java and JavaScript?
+Answer:
+Java is a programming language commonly used for backend and enterprise applications.
+JavaScript is primarily used for web development and can run on both the browser and server-side platforms such as Node.js.
+27. What is AWS?
+Answer:
+AWS stands for Amazon Web Services. It is a cloud platform offering services such as:
+EC2, S3, RDS, VPC, Lambda, IAM, CloudWatch, EKS, and more.
+28. What is DevOps?
+Answer:
+DevOps is a set of practices that improves collaboration between development and operations and helps automate software delivery.
+Common DevOps tools include:
+Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, AWS, and Azure DevOps.
+29. What is the difference between front-end and back-end?
+Answer:
+Front-end: The part users interact with, such as HTML, CSS, JavaScript, and React.
+Back-end: The server-side part handling business logic, APIs, databases, and processing.
+HR Questions
+30. Why do you want to become a US IT Recruiter?
+Answer:
+“I am interested in US IT Recruitment because it combines communication, technology, problem-solving, and relationship-building. I enjoy learning about IT technologies and connecting the right candidates with the right opportunities. I believe recruitment will allow me to develop both my technical understanding and communication skills.”
+
+31. Why should we hire you?
+Answer:
+“You should hire me because I am a quick learner, hardworking, and interested in US IT Recruitment. I am willing to learn the complete recruitment lifecycle, improve my sourcing skills, and work toward recruitment targets. I am also comfortable communicating with candidates and working in a team.”
+
+32. Are you comfortable working in night shifts?
+Answer:
+“Yes. I understand that US IT Recruitment typically requires working according to US business hours, and I am comfortable working in the required shift.”
+
+33. Are you comfortable with targets?
+Answer:
+“Yes. I understand that recruitment is a target-oriented role. I would manage my daily activities by setting goals for sourcing, calls, screening, submissions, and follow-ups.”
+
+34. What are your strengths?
+Answer:
+“My strengths are communication, patience, willingness to learn, consistency, and the ability to understand new technologies quickly.”
+
+35. What is your weakness?
+Answer:
+“As a fresher, I am still developing my practical experience in US IT Recruitment. I am working on improving my sourcing techniques, technical knowledge, and communication skills through continuous practice.”
+
+⭐ Important US IT Recruiter Terms to Remember
+JD       = Job Description
+ATS      = Applicant Tracking System
+VMS      = Vendor Management System
+W2       = Employment/payroll arrangement
+C2C      = Corp-to-Corp
+1099     = Independent contractor
+EAD      = Employment Authorization Document
+OPT      = Optional Practical Training
+CPT      = Curricular Practical Training
+Sourcing = Finding candidates
+Screening= Qualifying candidates
+Submission= Sending candidate to client
+Bench    = Candidate available for project
+Boolean  = Advanced keyword search
+Pipeline = Group of potential candidates. 
